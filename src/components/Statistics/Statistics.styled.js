@@ -7,7 +7,6 @@ export const StatsSection = styled.section`
   justify-content: space-between;
   width: 400px;
   text-align: center;
-  border: 1px solid black;
   border-radius: 5px;
   box-shadow: 1px 1px 8px 0px #000000;
   margin-left: 40px;
@@ -51,6 +50,7 @@ export const StatsLabel = styled.span`
   font-size: 16px;
   font-weight: 600;
   display: block;
+  margin-bottom: 8px;
 `;
 export const StatsPercentage = styled.span`
   text-align: center;

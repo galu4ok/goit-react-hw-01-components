@@ -7,7 +7,7 @@ export const User = styled.div`
   background-color: #f8f8f8;
   border-radius: 5px;
   box-shadow: 1px 1px 8px 0px #000000;
-  margin: 40px;
+  margin: 40px 40px 20px 40px;
   padding-top: 25px;
 `;
 
@@ -44,7 +44,7 @@ export const UserStatsList = styled.ul`
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  gap: 1px;
+  gap: 2px;
   border-radius: 5px;
   border: 1px solid lightgrey;
 `;

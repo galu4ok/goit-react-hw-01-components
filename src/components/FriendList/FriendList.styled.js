@@ -25,6 +25,12 @@ export const FriendAvatar = styled.img`
   height: 60px;
 `;
 
+export const FriendName = styled.p`
+  font-size: 16px;
+  font-weight: 500;
+  color: #0505057e;
+`;
+
 export const FriendStatus = styled.span`
   width: 18px;
   height: 18px;
